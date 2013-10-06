@@ -6,11 +6,5 @@ cat header.md > $DEST
 
 while read p; do
 	NAME="${p%%.*}"
-	if [ "$NAME" != "header" ]; then if [ "$NAME" != "mental_models" ]; then cat section_break.txt $p >> $DEST; fi; fi
+	if [ "$NAME" != "header" ]; then if [ "$NAME" != "mental_models" ]; then if [ "$NAME" != "README" ]; then cat section_break.txt $p >> $DEST; fi; fi; fi
 done < files.txt
-
-#for FILE in $FILES
-#do
-#	NAME="${FILE%%.*}"
-#	if [ "$NAME" != "header" ]; then if [ "$NAME" != "mental_models" ]; then cat $FILE >> $DEST; fi; fi
-#done
