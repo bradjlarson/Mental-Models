@@ -41,10 +41,10 @@ For exponentiation, roots, and logarithms, the results scale geometrically with 
 
 #####Other Model Interactions:
 
-Compound Interest
-Accounting
-Power Law
-Law of large numbers
+- Compound Interest
+- Accounting
+- Power Law
+- Law of large numbers
 
 
 
