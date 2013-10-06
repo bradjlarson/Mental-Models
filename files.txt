@@ -1,4 +1,4 @@
-Compound_interest.md
+README.md
 _blank.md
 arithmetic.md
 header.md
