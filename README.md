@@ -45,15 +45,24 @@ Similarly, the shorter the compounding period, the faster the money will grow. T
 
 #####Edge Cases:
 
-The higher the rate, the faster the money will grow. Each incremental unit causes a larger increase than the previous unit. 
+The higher the rate, the faster the money will grow. The growth is exponential, such that each incremental unit causes a larger increase than the previous unit. 
 
 The shorter the compouding period, the faster the money will grow. However, this has a logarithmic impact on money growth, meaning that a ceiling is met, i.e. continuous compounding. See the formula above.  
 
 #####Additional Information:
 
-
+- [Compound Interest](http://en.wikipedia.org/wiki/Compound_interest)
+- [Continuous Compound Formula](http://cs.selu.edu/~rbyrd/math/continuous/)
+- [Calculator](http://investor.gov/tools/calculators/compound-interest-calculator)
 
 #####Other Model Interactions:
+
+- Accounting
+- Power Law
+- Logarithms
+- Time value of money
+- Law of large numbers
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ####Model Name:
