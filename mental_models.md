@@ -1,17 +1,16 @@
-Mental Model Encyclopedia:
+####Model Name:
+#####Summary:
 
-To contribute to this project, first clone the repo to your local environment. 
+#####Traditional Usage:
 
-To start a new entry, you can either copy \_blank.md and start writing, or you can call ./create\_entry.sh and supply a model name, which will create and open the new file in vi.
+#####How it works:
 
-To incorporate your new entry into the final product, run ./combiner.sh, which orders and concatenates all of the files. 
+#####Edge Cases:
 
-To update in Git, run ./update.sh, which runs ./combiner.sh and then adds, commits, and push those changes back to Github.  
+#####Additional Information:
 
-The project depends on bash (set to /usr/bin/env bash), perl, and vi.
+#####Other Model Interactions:
 
-
-Entries will have the following format:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ####Arithmetic:
 #####Summary:
@@ -114,18 +113,4 @@ The shorter the compouding period, the faster the money will grow. However, this
 - Time value of money
 - Law of large numbers
 
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-####Model Name:
-#####Summary:
-
-#####Traditional Usage:
-
-#####How it works:
-
-#####Edge Cases:
-
-#####Additional Information:
-
-#####Other Model Interactions:
 
