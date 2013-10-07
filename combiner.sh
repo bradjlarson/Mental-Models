@@ -3,7 +3,7 @@ DEST=mental_models.md
 ls *.md | sort -f > files.txt
 
 cat header.md > $DEST
-cat _blank.md > $DEST
+cat _blank.md >> $DEST
 
 while read p; do
 	NAME="${p%%.*}"
