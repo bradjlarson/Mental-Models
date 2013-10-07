@@ -13,20 +13,6 @@ The project depends on bash (set to /usr/bin/env bash), perl, and vi.
 
 Entries will have the following format:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-####Model Name:
-#####Summary:
-
-#####Traditional Usage:
-
-#####How it works:
-
-#####Edge Cases:
-
-#####Additional Information:
-
-#####Other Model Interactions:
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ####Arithmetic:
 #####Summary:
 
@@ -128,4 +114,18 @@ The shorter the compouding period, the faster the money will grow. However, this
 - Time value of money
 - Law of large numbers
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+####Model Name:
+#####Summary:
+
+#####Traditional Usage:
+
+#####How it works:
+
+#####Edge Cases:
+
+#####Additional Information:
+
+#####Other Model Interactions:
 

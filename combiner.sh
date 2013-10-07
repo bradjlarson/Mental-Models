@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 DEST=mental_models.md
-ls *.md > files.txt
+ls *.md | sort -f > files.txt
 
 cat header.md > $DEST
 
