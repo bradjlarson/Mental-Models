@@ -10,5 +10,8 @@ To update in Git, run ./update.sh, which runs ./combiner.sh and then adds, commi
 
 The project depends on bash (set to /usr/bin/env bash), perl, and vi.
 
+Once I have completed the research for all of the models, I will begin creating a checklist, forcing me to figure out how I will recognize when this model is needed. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Entries will have the following format:
