@@ -1,4 +1,4 @@
-Mental Model Encyclopedia:
+# Mental Model Encyclopedia:
 
 To contribute to this project, first clone the repo to your local environment. 
 
